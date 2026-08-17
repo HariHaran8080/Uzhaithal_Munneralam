@@ -439,7 +439,7 @@ Key concepts:
 |  # | Topic                           | Problems Solved | Status      |
 | -: | ------------------------------- | --------------: | ----------- |
 |  1 | Arrays                          |              11 | In Progress |
-|  2 | Strings                         |               0 | Not Started |
+|  2 | Strings                         |               1 | Not Started |
 |  3 | Linked Lists                    |               0 | Not Started |
 |  4 | Two Pointers                    |               0 | Not Started |
 |  5 | Sliding Window                  |               0 | Not Started |
