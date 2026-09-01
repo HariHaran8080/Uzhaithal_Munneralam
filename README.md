@@ -438,9 +438,9 @@ Key concepts:
 
 |  # | Topic                           | Problems Solved | Status      |
 | -: | ------------------------------- | --------------: | ----------- |
-|  1 | Arrays                          |              11 | In Progress |
-|  2 | Strings                         |               8 | In Progress |
-|  3 | Linked Lists                    |               0 | Not Started |
+|  1 | Arrays                          |              11 | Completed   |
+|  2 | Strings                         |               8 | Completed   |
+|  3 | Linked Lists                    |               2 | In progress |
 |  4 | Two Pointers                    |               0 | Not Started |
 |  5 | Sliding Window                  |               0 | Not Started |
 |  6 | Stack                           |               0 | Not Started |
