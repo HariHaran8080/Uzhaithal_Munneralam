@@ -441,7 +441,7 @@ Key concepts:
 |  1 | Arrays                          |              11 | Completed   |
 |  2 | Strings                         |               8 | Completed   |
 |  3 | Linked Lists                    |               6 | Completed   |
-|  4 | Two Pointers                    |               1 | In Progress |
+|  4 | Two Pointers                    |               2 | Completed   |
 |  5 | Sliding Window                  |               0 | Not Started |
 |  6 | Stack                           |               0 | Not Started |
 |  7 | Trees — BFS/DFS/Traversal       |               2 | Not Started |
