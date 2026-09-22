@@ -442,8 +442,8 @@ Key concepts:
 |  2 | Strings                         |               8 | Completed   |
 |  3 | Linked Lists                    |               6 | Completed   |
 |  4 | Two Pointers                    |               2 | Completed   |
-|  5 | Sliding Window                  |               2 | In progress |
-|  6 | Stack                           |               0 | Not Started |
+|  5 | Sliding Window                  |               2 | Completed   |
+|  6 | Stack                           |               1 | Completed   |
 |  7 | Trees — BFS/DFS/Traversal       |               2 | Not Started |
 |  8 | Trees — Advanced/BST            |               0 | Not Started |
 |  9 | Heap / Priority Queue           |               0 | Not Started |
