@@ -444,7 +444,7 @@ Key concepts:
 |  4 | Two Pointers                    |               2 | Completed   |
 |  5 | Sliding Window                  |               2 | Completed   |
 |  6 | Stack                           |               1 | Completed   |
-|  7 | Trees — BFS/DFS/Traversal       |               2 | Not Started |
+|  7 | Trees — BFS/DFS/Traversal       |               3 | In Progress |
 |  8 | Trees — Advanced/BST            |               0 | Not Started |
 |  9 | Heap / Priority Queue           |               0 | Not Started |
 | 10 | Backtracking                    |               0 | Not Started |
